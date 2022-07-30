@@ -1,9 +1,9 @@
-.box {
+.label-form {
   display: block;
   margin-bottom: 10px;
 }
 
-.box1 {
+.fieldset-form {
   display: block;
   margin-bottom: 20px;
   padding-bottom: 0;
